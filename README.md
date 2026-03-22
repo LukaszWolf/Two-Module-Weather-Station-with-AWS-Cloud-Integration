@@ -20,7 +20,7 @@ This project was developed as a 5th-semester project at the **Silesian Universit
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 ### Hardware
 * **Indoor Hub (ESP32):**
