@@ -20,7 +20,6 @@ This project was developed as a 5th-semester project at the **Silesian Universit
 
 ### Hardware
 * **Indoor Hub (ESP32):**
-    * Dual-core processing (UI vs. Communication).
     * **Sensors:** DS18B20 (Internal Temp), DS3231 RTC (Timekeeping).
     * **Storage:** LittleFS for GUI assets.
 * **Outdoor Sensor (ESP32-C3 Mini):**
