@@ -1,9 +1,5 @@
 # Two-Module Weather Station with AWS Cloud Integration
 
-[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Completed-success)](https://github.com/LukaszWolf/Meteo-station-with-AWS-Cloud-5-semester-project-)
-[![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue)](https://www.espressif.com/en/products/socs/esp32)
-[![Cloud: AWS](https://img.shields.io/badge/Cloud-AWS%20IoT-orange)](https://aws.amazon.com/iot-core/)
-
 An advanced IoT ecosystem designed for distributed weather monitoring. This system integrates local sensor networks with enterprise-grade cloud computing to provide real-time data visualization through both a physical touchscreen interface and a dedicated web application.
 
 ## Overview
